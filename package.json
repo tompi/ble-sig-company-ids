@@ -1,0 +1,28 @@
+{
+  "name": "ble-sig-company-ids",
+  "version": "1.0.0",
+  "description": "Scrape bluetooth.com for sig ids and generate json+csv",
+  "main": "parse_raw_json.js",
+  "dependencies": {
+    "csv-stringify": "^3.0.0",
+    "he": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tompi/ble-sig-company-ids.git"
+  },
+  "keywords": [
+    "ble",
+    "sig"
+  ],
+  "author": "thomas.haukland@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tompi/ble-sig-company-ids/issues"
+  },
+  "homepage": "https://github.com/tompi/ble-sig-company-ids#readme"
+}
